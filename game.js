@@ -1,4 +1,4 @@
-let humanScore = 0;
+let PersonScore = 0;
 let computerScore = 0;
 
 function play(PersonPlay, cheatMode = false) {
